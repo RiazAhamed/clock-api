@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+#------- Windows --------
+>>>>>>> dev
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
@@ -34,6 +38,10 @@ $RECYCLE.BIN/
 logs
 *.log
 npm-debug.log*
+<<<<<<< HEAD
+=======
+npm-debug.log
+>>>>>>> dev
 
 # Runtime data
 pids
